@@ -1,0 +1,13 @@
+import { ComentarioRepository } from "./adapter/ComentarioRepository";
+import { ReporteRepository } from "./adapter/ReporteRepository";
+import { TipoTransporteRepository } from "./adapter/TipoTransporteRepository";
+import { UsuarioRepository } from "./adapter/UsuarioRepository";
+import { ViajeRepository } from "./adapter/ViajeRepository";
+import { RutaFavoritaRepository } from './adapter/RutaFavoritaRepository';
+// Instancias concretas de los repositorios
+export const comentarioRepository = new ComentarioRepository();
+export const reporteRepository = new ReporteRepository();
+export const tipoTransporteRepository = new TipoTransporteRepository();
+export const usuarioRepository = new UsuarioRepository();
+export const viajeRepository = new ViajeRepository();
+export const rutaFavoritaRepository = new RutaFavoritaRepository();

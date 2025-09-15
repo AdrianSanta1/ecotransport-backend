@@ -1,0 +1,1 @@
+{"version":3,"file":"contarViajesPorUsuario.js","sourceRoot":"","sources":["../../../src/application/usecases/contarViajesPorUsuario.ts"],"names":[],"mappings":";;;AAAA,oEAAoE;AAG7D,MAAM,sBAAsB,GAAG,KAAK,EAAE,SAAiB,EAAE,EAAE;IAClE,OAAO,MAAM,8BAAe,CAAC,cAAc,CAAC,SAAS,CAAC,CAAC;AACvD,CAAC,CAAC;AAFW,QAAA,sBAAsB,0BAEjC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"crearRutaFavorita.js","sourceRoot":"","sources":["../../../src/application/usecases/crearRutaFavorita.ts"],"names":[],"mappings":";;;AACA,oEAA2E;AAC3E,qEAAkE;AAE3D,MAAM,iBAAiB,GAAG,KAAK,EAAE,IAAS,EAAE,EAAE;IACnD,MAAM,IAAI,GAAG,IAAI,2BAAY,CAAC,IAAI,CAAC,CAAC;IACpC,OAAO,MAAM,qCAAsB,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC;AACjD,CAAC,CAAC;AAHW,QAAA,iBAAiB,qBAG5B"}

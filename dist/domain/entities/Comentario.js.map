@@ -1,0 +1,1 @@
+{"version":3,"file":"Comentario.js","sourceRoot":"","sources":["../../../src/domain/entities/Comentario.ts"],"names":[],"mappings":";;;AAOA,MAAa,UAAU;IAMrB,YAAY,KAAsB;QAChC,IAAI,CAAC,SAAS,GAAG,KAAK,CAAC,SAAS,CAAC;QACjC,IAAI,CAAC,UAAU,GAAG,KAAK,CAAC,UAAU,CAAC;QACnC,IAAI,CAAC,EAAE,GAAG,KAAK,CAAC,EAAE,CAAC;QACnB,IAAI,CAAC,SAAS,GAAG,KAAK,CAAC,SAAS,CAAC;IACnC,CAAC;CACF;AAZD,gCAYC"}

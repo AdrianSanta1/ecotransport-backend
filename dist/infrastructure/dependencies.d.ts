@@ -1,0 +1,12 @@
+import { ComentarioRepository } from "./adapter/ComentarioRepository";
+import { ReporteRepository } from "./adapter/ReporteRepository";
+import { TipoTransporteRepository } from "./adapter/TipoTransporteRepository";
+import { UsuarioRepository } from "./adapter/UsuarioRepository";
+import { ViajeRepository } from "./adapter/ViajeRepository";
+import { RutaFavoritaRepository } from './adapter/RutaFavoritaRepository';
+export declare const comentarioRepository: ComentarioRepository;
+export declare const reporteRepository: ReporteRepository;
+export declare const tipoTransporteRepository: TipoTransporteRepository;
+export declare const usuarioRepository: UsuarioRepository;
+export declare const viajeRepository: ViajeRepository;
+export declare const rutaFavoritaRepository: RutaFavoritaRepository;

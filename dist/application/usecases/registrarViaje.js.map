@@ -1,0 +1,1 @@
+{"version":3,"file":"registrarViaje.js","sourceRoot":"","sources":["../../../src/application/usecases/registrarViaje.ts"],"names":[],"mappings":";;;AAAA,oEAAoE;AACpE,uDAAoD;AAG7C,MAAM,cAAc,GAAG,KAAK,EAAE,IAAS,EAAE,EAAE;IAClD,MAAM,KAAK,GAAG,IAAI,aAAK,CAAC,IAAI,CAAC,CAAC;IAC9B,OAAO,MAAM,8BAAe,CAAC,IAAI,CAAC,KAAK,CAAC,CAAC;AACzC,CAAC,CAAC;AAHW,QAAA,cAAc,kBAGzB"}
